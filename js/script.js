@@ -73,7 +73,7 @@ addEventListener("DOMContentLoaded", (event) => {
     description_presentation.innerHTML = "I’m a full stack developer with 2 years of experience in designing and implementing web applications. A fast learner, adaptable to any project, and an autonomous team player committed to continuous improvement and teamwork.<br><br>I’ve worked on web application projects using publicly available APIs, as well as creating APIs with Java Spring Boot. On the frontend, I'm currently working with Angular and work with relational databases like Oracle and MySQL."
         //Proyectos
     let h3_proyectos = document.querySelector("#h3_proyectos")
-    h3_proyectos.innerHTML = "Mi personal projects"
+    h3_proyectos.innerHTML = "My personal projects"
 
     let intro_proyectos = document.querySelector("#intro_proyectos")
     intro_proyectos.innerHTML = "These are some of my favorite and most recent projects."
