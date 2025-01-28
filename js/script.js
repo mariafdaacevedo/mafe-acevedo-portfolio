@@ -123,7 +123,7 @@ addEventListener("DOMContentLoaded", (event) => {
     h3_contacto.innerHTML = "Let's work together!"
 
     let contacto_intro = document.querySelector("#contacto_intro")
-    contacto_intro.innerHTML = "You can send me a message or contact me through any of my social media. You can also find my personal information in my CV. Click <a href='https://drive.google.com/file/d/14Cfi2uSxPbBSuu4_bwSpJRU46-rDiMBW/view?usp=sharing' target='_blank'>Download CV</a>."
+    contacto_intro.innerHTML = "You can send me a message or contact me through any of my social media. You can also find my personal information in my CV. Click <a href='https://drive.google.com/file/d/14HL0YEwn5cpimmLsfVwGhEO2SGAeo363/view?usp=sharing' target='_blank'>Download CV</a>."
 
 
 
